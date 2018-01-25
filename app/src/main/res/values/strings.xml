@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrivaApp</string>
+    <string name="enter_player_name">Enter Player Name</string>
+</resources>
